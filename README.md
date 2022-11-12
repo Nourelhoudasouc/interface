@@ -5,6 +5,7 @@
 		<title>inscriptionBac</title>
     </head>
 	<body>  
+	<h1>meriem bouyemmout</h1>
 	<p1>sfendji lina malak</p1>
 	  <h1>INSCRIPTION:</h1>
 		<form methode="GET" action="http://127.PHP">
